@@ -1,5 +1,5 @@
 ## PIZZA DELIVERY API
-This is a REST API for a Pizza delivery service built for fun and learning with FastAPI, SQLAlchemy and PostgreSQL. The video playlist is 
+This is a REST API for a Pizza Delivery service built for fun and learning with Django Rest Framework. The video playlist is 
 [here](https://www.youtube.com/watch?v=Sjv-HTLmnB4&ab_channel=SsaliJonathan)
 
 
@@ -23,7 +23,6 @@ This is a REST API for a Pizza delivery service built for fun and learning with 
 ## How to run the Project
 - Install Postgreql
 - Install Python
-- Git clone the project with ``` git clone https://github.com/jod35/Pizza-Delivery-API.git```
 - Create your virtualenv with `Pipenv` or `virtualenv` and activate it.
 - Install the requirements with ``` pip install -r requirements.txt ```
 - Create you database with `python manage.py runserver` 
