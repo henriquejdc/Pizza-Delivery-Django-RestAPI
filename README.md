@@ -1,5 +1,5 @@
 ## PIZZA DELIVERY API
-This is a REST API for a Pizza delivery service built for fun and learning with FastAPI, SQLAlchemy and PostgreSQL. The video playlist is 
+This is a REST API for a Pizza Delivery service built for fun and learning with Django Rest Framework. The video playlist is 
 [here](https://www.youtube.com/watch?v=Sjv-HTLmnB4&ab_channel=SsaliJonathan)
 
 
